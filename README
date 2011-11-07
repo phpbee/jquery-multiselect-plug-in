@@ -1,0 +1,5 @@
+Usage example:
+
+jQuery(document).ready(function (){
+	$(".multiselect").gs_multiselect();
+});
